@@ -1,0 +1,12 @@
+# Build output
+bin/
+
+# Private signing key
+developer_key
+*.der
+*.pem
+
+# Editor and tool state
+.idea/
+.vscode/
+.claude/settings.local.json
