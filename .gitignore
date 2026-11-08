@@ -1,5 +1,6 @@
 # Build output
 bin/
+__pycache__
 
 # Private signing key
 developer_key
